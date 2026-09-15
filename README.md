@@ -51,37 +51,37 @@ I enjoy working across **Data Science, Generative AI, Machine Learning, Full Sta
 
 ## 🚀 Featured Projects
 
-### 🤖 AI Data Science Analyst
+### 🤖 [AI Data Science Analyst](https://github.com/Jovita15-anto/ai-ds-analyst)
 AI-powered application for analyzing CSV datasets using natural-language queries, AI agents, and tool calling.
 
 **Tech:** Python, Pandas, Streamlit, LangChain, LangGraph, Ollama
 
-### 🔬 AI Research Agent
+### 🔬 [AI Research Agent](https://github.com/Jovita15-anto/AI-Research-Agent)
 RAG-based research assistant for semantic search across uploaded research papers and evidence-grounded answers.
 
 **Tech:** Python, ChromaDB, Ollama, Qwen3, EmbeddingGemma, PyMuPDF, Streamlit
 
-### 📊 Insurance Cost Prediction
+### 📊 [Insurance Cost Prediction](https://github.com/Jovita15-anto/Insurance-Charges-)
 Machine learning application for predicting insurance costs using data preprocessing, statistical analysis, feature selection, and Linear Regression.
 
 **Tech:** Python, Pandas, NumPy, Scikit-learn, SciPy, Streamlit
 
-### 💬 Spam vs Ham SMS Classification
+### 💬 [Spam vs Ham SMS Classification](https://github.com/Jovita15-anto/SPAM-message-detection)
 NLP-based SMS classification system using text preprocessing, TF-IDF, Logistic Regression, and hyperparameter tuning.
 
 **Tech:** Python, NLTK, Scikit-learn, Streamlit
 
-### 😊 Emotion-Based Facial Recognition
+### 😊 [Emotion-Based Facial Recognition](https://github.com/Jovita15-anto/Emotion-based-Face-recognition)
 CNN-based facial emotion recognition model trained using the FER2013 dataset.
 
 **Tech:** Python, TensorFlow, Keras, OpenCV, NumPy
 
-### 🏛️ KuralKodu – Civic Complaint Management System
+### 🏛️ [KuralKodu – Civic Complaint Management System](https://github.com/Jovita15-anto/KURALKODU)
 Full-stack civic complaint management application with complaint registration, image upload, location capture, tracking, and an admin dashboard.
 
 **Tech:** HTML, CSS, JavaScript, Node.js, Express.js, MongoDB, Mongoose, Multer
 
-### 🎬 CineVault – Movie Library
+### 🎬 [CineVault – Movie Library](https://github.com/Jovita15-anto/Movie-Library)
 Movie search application using the TMDB API with search suggestions, movie details, ratings, genres, and posters.
 
 **Tech:** HTML, CSS, JavaScript, TMDB API, Vercel
